@@ -1,0 +1,14 @@
+C:\Users\Dave\source\repos\LibraryWCF\LibraryWCF\bin\LibraryWCF.dll.config
+C:\Users\Dave\source\repos\LibraryWCF\LibraryWCF\bin\LibraryWCF.dll
+C:\Users\Dave\source\repos\LibraryWCF\LibraryWCF\bin\LibraryWCF.pdb
+C:\Users\Dave\source\repos\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.dll
+C:\Users\Dave\source\repos\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.pdb
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryWCF\LibraryWCF\bin\LibraryWCF.dll.config
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryWCF\LibraryWCF\bin\LibraryWCF.dll
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryWCF\LibraryWCF\bin\LibraryWCF.pdb
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.csproj.CoreCompileInputs.cache
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.dll
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.pdb
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryWCF\LibraryWCF\obj\Debug\LibraryWCF.csprojAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\bin\Debug\LibraryClient.exe.config
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\bin\Debug\LibraryClient.exe
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\bin\Debug\LibraryClient.pdb
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.Form1.resources
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.Properties.Resources.resources
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csproj.GenerateResource.cache
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.exe
+C:\Users\Dave\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.pdb
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\bin\Debug\LibraryClient.exe.config
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\bin\Debug\LibraryClient.exe
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\bin\Debug\LibraryClient.pdb
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csprojAssemblyReference.cache
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\obj\Debug\LibraryClient.Form1.resources
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\obj\Debug\LibraryClient.Properties.Resources.resources
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csproj.GenerateResource.cache
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csproj.CoreCompileInputs.cache
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\obj\Debug\LibraryClient.exe
+G:\Documents\Szolgáltatás orientált programozás\WCF_BACKUP\LibraryClient\LibraryClient\obj\Debug\LibraryClient.pdb

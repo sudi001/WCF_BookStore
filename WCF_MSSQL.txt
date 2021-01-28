@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS book;
+CREATE TABLE book (
+  id int NOT NULL,
+  name varchar(max) NOT NULL,
+  author varchar(max) NOT NULL,
+  price int NOT NULL,
+);
+
+INSERT INTO bookstore.dbo.book VALUES (2, 'name3', 'author3', 4444);
